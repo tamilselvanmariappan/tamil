@@ -1,3 +1,4 @@
+encoding: UTF-8
 # Configurations
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
