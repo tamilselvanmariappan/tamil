@@ -4,13 +4,16 @@ title: Resume
 description: Resume of Tamilselvan
 theme: red
 ---
-Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
+Five years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
+
+**Functional Experties:**
+SDLC, Agile Methodology, Presentation Layer, service/Business Layer, Web site wire framing, Software design patterns like MVC, MVVM and Mobile applications.
+
+**Industry Experties:**
+Finance, Reseller & Stock management, Attendance & Security and Investor relation. 
 
 **Experience in Web Technology:**
-Building and Supporting web applications using Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Ext JS and jQuery.
-
-**Experience in Enterprise Content Management:**
-Implemented custom applications for content and knowledge management. Have also worked with leading industry ECM applications like SharePoint 2013, MOSS 2007, SharePoint 2010 and Documentum.
+Building and Supporting web applications using Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Client CMS, Ext JS and jQuery.
 
 <!-- Skills -->
 <section class="row">
@@ -24,8 +27,16 @@ Implemented custom applications for content and knowledge management. Have also 
 					<li class="list-group-item active"><h4><strong>Programming</strong></h4></li>
 					<li class="list-group-item">C#</li>
 					<li class="list-group-item">ASP.Net / ASP.Net MVC</li>
+                    <li class="list-group-item">Windows Azure</li>
+                     <li class="list-group-item">Web services (SOAP, JSON)</li>
+                     <li class="list-group-item">Xamarin</li>
+                    <li class="list-group-item">HTML5 & CSS3</li>
+                     <li class="list-group-item">SASS</li>
 					<li class="list-group-item">Javascript</li>
-					<li class="list-group-item">HTML & CSS</li>
+                    <li class="list-group-item">JQuery</li>
+                    <li class="list-group-item">Angular JS</li>
+					<li class="list-group-item">Mustache JS</li>
+                    <li class="list-group-item">Apache Cordova</li>
 				</ul>
 			</div>
 			<div class="col-md-6">

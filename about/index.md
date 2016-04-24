@@ -4,13 +4,11 @@ title: Hi, I am Tamilselvan
 description: About Me page of Tamilselvan
 theme: purple
 ---
-
-I am a web focused developer mostly working using Microsoft .Net technologies. Occasionally, I end up working on non web related projects. I am based in Abu Dhabi, United Arab Emirates and work for C4 Advanced Solution as Application Developer.
-This is my personal website and blog where I put down my thoughts, solutions to problems and learning notes.
+I am .Net and Web UI Developer working out of Intent Solutions Group’s Chennai office with over 5 years of experience developing web applications in Microsoft Technologies. He specializes in the Microsoft development suite and deployments utilizing the Microsoft .NET development framework and Windows Azure. I enjoys helping product management by getting face to face client feedback on deployment projects. 
 
 ## About this Site
 
-This site contains about all my blog posts and my professional details .
+This is my personal website and blog where I put down my thoughts, solutions to problems and learning notes.
 
 ## Contact Me
 
