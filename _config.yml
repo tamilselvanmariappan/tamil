@@ -50,13 +50,13 @@ stackoverflow:  '#'
 twitter:        'https://twitter.com/tamilmariappan'
 
 # Google Analytics
-gahandler: 'UA-11111111-1'
+gahandler: 'UA-67216433-2'
 
 #if footersvg is 'true' the social media links will be shown top on the copy right in the footer
 footersvg: 'true'
 
 # Disqus
-disqushandler: 'testingblogo'
+disqushandler: 'blogmycampusdiarycom'
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index

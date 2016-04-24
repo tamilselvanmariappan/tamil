@@ -31,20 +31,17 @@ Currently I am busy with other project and will devote less time in developing t
 
 ## Demo
 
-You can see the live demo of this theme at [http://blog-olakara.rhcloud.com](http://blog-olakara.rhcloud.com)
+You can see the live demo of this theme at [http://blog.mycampusdiary.com)
 
 ## Author
 
-**[Abdel Raoof Olakara](http://abdelraoof.com)**
+**[Tamilselvan](http://www.mycampusdiary.com)**
 
 
 ## Contributors
 
-**Stilyan Kongalov**
-- <https://github.com/Stilyan-Kangalov>
-
-**Peter Zhu**
-- <https://github.com/ZhuFengdaaa>
+**Tamilselvan**
+- <https://github.com/tamilselvanmariappan>
 
 
 ## License

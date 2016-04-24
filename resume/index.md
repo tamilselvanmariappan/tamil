@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-description: Resume of Abdel Raoof
+description: Resume of Tamilselvan
 theme: red
 ---
 Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
@@ -31,9 +31,9 @@ Implemented custom applications for content and knowledge management. Have also 
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Specialties</strong></h4></li>
-					<li class="list-group-item">.Net Web Technologies</li>
-					<li class="list-group-item">SharePoint 2013</li>
-					<li class="list-group-item">Sencha Ext Js</li>
+					<li class="list-group-item">.Net Technologies</li>
+					<li class="list-group-item">Web Applications</li>
+					<li class="list-group-item">Mobile Applications</li>
 				</ul>
 			</div>
 		</div>
@@ -48,12 +48,12 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>Master of Computer Applications (MCA)</h4>
-				<p>2004-2007 - Vellore Institute of Technology</p>
+				<h4>Master of Computer Science (MSc)</h4>
+				<p>2010-2013 - Bharathidasan University</p>
 			</li>
 			<li>
-				<h4>Bachelor of Sscience - Computer Science</h4>
-				<p>2001-2004 - University of Calicut</p>
+				<h4>Bachelor of Science - Information Technology</h4>
+				<p>2007-2010 - University of Calicut</p>
 			</li>
 		</ul>
 	</div>
@@ -67,24 +67,19 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>C4 Advanced Solutions</h4>
+				<h4>Intent Solution Group</h4>
 				<h5>Present</h5>
-				<p>Working as Application Developer</p>
+				<p>Software Developer</p>
 			</li>
 			<li>
-				<h4>Abdul Samad Al Qurashi</h4>
-				<h5>March 2010 - January 2013</h5>
-				<p>Worked as Web Developer</p>
+				<h4>Znod Technologies Pvt Ltd</h4>
+				<h5>Present</h5>
+				<p>Technical Lead</p>
 			</li>
 			<li>
-				<h4>Samsung SDS</h4>
-				<h5>May 2009 - March 2010</h5>
-				<p>Worked as Web Developer with MIS team</p>
-			</li>
-			<li>
-				<h4>Honeywell Technology Solutions</h4>
-				<h5>December 2006 - December 2008</h5>
-				<p>Worked as Project Trainee & later Software Engineer</p>
+				<h4>Nubes Systems Private limited</h4>
+				<h5>May 2013 - March 2014</h5>
+				<p>Software Developer</p>
 			</li>
 		</ul>
 	</div>
