@@ -1,0 +1,67 @@
+# Configurations
+markdown: kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+highlighter: pygments
+
+# Needed for backward compatibility
+gems: [jekyll-paginate]
+
+# Permalinks
+permalink:        /blog/:year/:month/:day/:title
+
+# Setup
+title:            'Tamil Blog'
+tagline:          'Tamil Blog'
+description:      'My Campus Diary Tamil blog'
+url:              'http://blog.mycampusdiary.com'
+baseurl:          ''
+
+# Navigation
+navigation:
+- text: About
+  url: /about/
+- text: Resume
+  url: /resume/
+- text: Blog
+  url: /blog/
+- text: Tags
+  url: /tags/
+- text: Archive
+  url : /archive/
+- text: Search
+  url: /search/
+
+
+# Author Details
+author:         'Tamilselvan'
+
+#Social Media links (Use complete URL except for email)
+dribbble:
+email:
+facebook:       'https://www.facebook.com/'
+flickr:
+github:         'https://github.com/'
+gplus:          'https://plus.google.com/'
+instagram:
+pinterest:
+linkedin:       '#'
+rss:
+stackoverflow:  '#'
+twitter:        '#'
+
+# Google Analytics
+gahandler: 'UA-11111111-1'
+
+#if footersvg is 'true' the social media links will be shown top on the copy right in the footer
+footersvg: 'true'
+
+# Disqus
+disqushandler: 'testingblogo'
+
+# Blog Configurations
+paginate: 10 # Posts per page on the blog index
+paginate_path: '/blog/page:num'
+destination: ./_site
+
+# Custom vars
+version:          0.9x beta 2
