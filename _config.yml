@@ -15,7 +15,7 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Tamilselvan M'
 tagline:          'Tamil Blog'
 description:      'My Campus Diary Tamil blog'
-url:              'http://blog.mycampusdiary.com'
+url:              'http://www.mycampusdiary.com'
 baseurl:          ''
 
 # Navigation
