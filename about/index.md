@@ -4,9 +4,7 @@ title: Hi, I am Tamilselvan
 description: About Me page of Tamilselvan
 theme: purple
 ---
-I am .Net and Web UI Developer working out of Intent Solutions Groups Chennai office with over 5 years of experience developing web applications in Microsoft Technologies. He specializes in the Microsoft development suite and deployments utilizing the Microsoft .NET development framework and Windows Azure. 
-I enjoys helping product management by getting face to face client feedback on deployment projects. 
-
+This is tamilselvan
 ## About this Site
 
 This is my personal website and blog where I put down my thoughts, solutions to problems and learning notes.
