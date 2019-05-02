@@ -78,7 +78,7 @@ Building and Supporting web applications using Microsoft Technologies (ASP.Net &
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>Intent Solution Group</h4>
+				<h4>Toverto Solutions Pvt Ltd</h4>
 				<h5>Present</h5>
 				<p>Software Developer</p>
 			</li>
